@@ -1,2 +1,4 @@
 configs:
-  jquery: {{ jquery }}
+  jquery: C:\jquery
+  angular: C:\angular
+# I HONKED
